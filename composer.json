@@ -1,0 +1,12 @@
+{
+    "name": "demanliu/php-etl",
+    "description": "build etl projects quickly and easily",
+    "type": "library",
+    "authors": [
+        {
+            "name": "liuhuan",
+            "email": "qq384012351@gmail.com"
+        }
+    ],
+    "require": {}
+}
