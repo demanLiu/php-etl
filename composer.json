@@ -8,5 +8,7 @@
             "email": "qq384012351@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "demanliu/pipes": "dev-master"
+    }
 }
