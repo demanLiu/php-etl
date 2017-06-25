@@ -1,6 +1,6 @@
 <?php
-namespace elt\Config;
+namespace Etl\Config;
 [
-    'P1'=>'elt\\Pipes\\',
-    'P2'=>'elt\\Pipes\\',
+    'P1'=>'',
+    'P2'=>'',
 ];
