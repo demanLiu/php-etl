@@ -1,8 +1,6 @@
 <?php
 namespace Etl\Contracts;
 interface Extract{
-    public function loadConfig();
-    public function __before();
+    public function setData(array $data);
     public function getData();
-    public function __after();
 }
